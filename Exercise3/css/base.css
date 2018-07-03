@@ -68,3 +68,12 @@ a.book-link3 {
 #facility {
     font-size: 2em;
 }
+
+.faci a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.faci a:hover {
+    color: #FF0000;
+}
