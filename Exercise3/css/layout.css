@@ -6,6 +6,11 @@ body {
 .hero_sec {
     background-color: #666;
     display: flex;
+    background-image: url("../img/heroimg.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    line-height: 800px;
+    color: #fff;
 }
 
 article {
