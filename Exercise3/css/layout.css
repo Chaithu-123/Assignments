@@ -19,6 +19,7 @@ article {
 }
 
 .left-half {
+    font-family: 'Open Sans', serif;
     display: flex;
     flex-basis: 50%;
     background-image: url("../img/snooback.jpg");

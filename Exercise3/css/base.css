@@ -14,12 +14,14 @@
 }
 
 .right-half p {
+    font-family: 'Open Sans', serif;
     overflow: hidden;
     line-height: 16px;
     max-height: 32px;
 }
 
 .left-half h2 {
+    font-family: 'Open Sans', serif;
     font-size: 2em;
 }
 
