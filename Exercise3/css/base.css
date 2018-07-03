@@ -2,6 +2,11 @@
     padding: 10px 30px;
     color: #D2691E;
     font-size: 1.4em;
+    text-decoration: none;
+}
+
+.navy a:hover {
+    color: #000000;
 }
 
 .spic {
@@ -76,4 +81,8 @@ a.book-link3 {
 
 .faci a:hover {
     color: #FF0000;
+}
+
+.navy li {
+    list-style: none;
 }
