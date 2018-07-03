@@ -1,0 +1,68 @@
+.navy a {
+    padding: 10px 30px;
+    color: #D2691E;
+    font-size: 1.4em;
+}
+
+.spic {
+    width: 95px;
+    height: 75px;
+}
+
+.navy {
+    text-decoration: none;
+}
+
+.right-half p {
+    overflow: hidden;
+    line-height: 16px;
+    max-height: 32px;
+}
+
+.left-half h2 {
+    font-size: 2em;
+}
+
+.third_sec ul {
+    text-decoration: none;
+}
+
+.right-half div a {
+    color: #d2691e;
+}
+
+a.book-link1 {
+    position: absolute;
+    right: 0;
+}
+
+a.book-link2 {
+    position: absolute;
+    right: 0;
+}
+
+a.book-link3 {
+    position: absolute;
+    right: 0;
+}
+
+.hero_img {
+    width: 100%;
+    height: auto;
+}
+
+#intro {
+    font-size: 2em;
+}
+
+#book {
+    font-size: 2em;
+}
+
+#junior {
+    font-size: 2em;
+}
+
+#facility {
+    font-size: 2em;
+}
