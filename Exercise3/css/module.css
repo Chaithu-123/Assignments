@@ -29,4 +29,14 @@
          display: block;
          margin: 0 auto;
      }
+     .navy li {
+         display: flex;
+         flex-direction: column;
+     }
+     .hero_text {
+         display: none;
+     }
+     .hero_sec {
+         margin-top: 10em;
+     }
  }
