@@ -1,83 +1,31 @@
-.navy a {
-    padding: 10px 30px;
-    color: #D2691E;
-    font-size: 1.4em;
-    text-decoration: none;
+header {
+    display: flex;
+    top: 0;
+    background-color: #604551;
+    width: 100%;
+    margin: 0px auto;
+    position: fixed;
+    justify-content: space-between;
+    height: 5em;
 }
 
-.navy a:hover {
-    color: #000000;
+article {
+    padding: 1rem;
 }
 
-.spic {
-    width: 95px;
-    height: 75px;
+nav {
+    padding-top: 7px;
 }
 
-.navy {
-    text-decoration: none;
+body {
+    background-color: #D3D3D3;
+    margin: 0px;
 }
 
-.right-half p {
-    font-family: 'Open Sans', serif;
-    overflow: hidden;
-    line-height: 16px;
-    max-height: 32px;
-}
-
-.left-half h2 {
-    font-family: 'Open Sans', serif;
-    font-size: 2em;
-}
-
-.third_sec ul {
-    text-decoration: none;
-}
-
-.right-half div a {
-    color: #d2691e;
-}
-
-a.book-link1 {
-    position: absolute;
-    right: 0;
-}
-
-a.book-link2 {
-    position: absolute;
-    right: 0;
-}
-
-a.book-link3 {
-    position: absolute;
-    right: 0;
-}
-
-#intro {
-    font-size: 2em;
-}
-
-#book {
-    font-size: 2em;
-}
-
-#junior {
-    font-size: 2em;
-}
-
-#facility {
-    font-size: 2em;
-}
-
-.faci a {
-    text-decoration: none;
-    color: #000000;
-}
-
-.faci a:hover {
-    color: #FF0000;
-}
-
-.navy li {
-    list-style: none;
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
 }
